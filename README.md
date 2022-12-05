@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mr-Perfection
-- 👀 I’m interested in SaaS, productivity/consumer apps, AI/ML, and distributed systems.
+- 👀 I’m interested in SaaS, productivity apps, AI/ML, and distributed systems.
 - 🌱 I’m currently learning how to surf.
 - 💞️ I’m looking to collaborate on startup ideas.
 - 📫 How to reach me koreancowboi.com
