@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mr-Perfection
-- 👀 I’m interested in SaaS, productivity apps, AI/ML, and distributed systems.
-- 🌱 I’m currently learning how to surf.
+- 👀 I’m interested in productivity apps, AI/ML, and distributed systems.
+- 🌱 I’m currently building some Openclaw bots.
 - 💞️ I’m looking to collaborate on startup ideas.
-- 📫 How to reach me koreancowboi.com
+- 📫 How to reach me https://mr-perfection.github.io/
 
 <!---
 Mr-Perfection/Mr-Perfection is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
